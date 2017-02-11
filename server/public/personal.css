@@ -4,7 +4,7 @@ html, body{
 }
 body{
     overflow-y: hidden;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Quicksand', sans-serif;
 }
 .valign-wrapper{
     height: 100%;

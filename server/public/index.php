@@ -12,7 +12,7 @@ require_once("../includes/config.php");
         <!--<meta http-equiv="Cache-Control" content="no-cache">-->
         <link rel="shortcut icon" href="favicon.ico">
         <!-- fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
         <!-- CSS -->
         <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
