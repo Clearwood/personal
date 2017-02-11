@@ -26,15 +26,13 @@ require_once("../includes/config.php");
     </head>
     <body>
 <?php include_once("../includes/analytics.php") ?>
-<div class="col s0 l4"></div>
-<div class="col s12 l4">
 <div class="valign-wrapper">
-    <h2 class="valign center-align">Keno Budde</h2>
+<div class="valign center-align">
+    <h2 class="">Keno Budde</h2>
     <br/>
     <div class="divider"></div>
-    <h3 class="valign center-align">keno@budde.ws</h3>
+    <h3>keno@budde.ws</h3>
 </div>
 </div>
-<div class="col s0 l4"></div>
     </body>
 </html>
