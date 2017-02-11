@@ -1,12 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Tammo
- * Date: 11.02.2017
- * Time: 21:04
- */
-?>
-    <!Doctype HTML>
+<!Doctype HTML>
     <html lang="en">
     <head>
         <title>Coffee2me - Coming Soon</title>
