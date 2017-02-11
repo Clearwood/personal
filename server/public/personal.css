@@ -5,3 +5,9 @@ html, body{
 body{
     overflow-y: hidden;
 }
+.valign-wrapper{
+    height: 100%;
+}
+.valign{
+    width: 100%;
+}
