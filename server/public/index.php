@@ -1,8 +1,11 @@
+<?php
+require_once("../includes/config.php");
+?>
 <!Doctype HTML>
     <html lang="en">
     <head>
-        <title>Coffee2me - Coming Soon</title>
-        <meta name='copyright' content='Copyright 2016. Coffee2me.'>
+        <title>Keno Budde</title>
+        <meta name='copyright' content='Copyright 2017. Keno Budde.'>
         <meta charset="utf-8">
         <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
