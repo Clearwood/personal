@@ -11,8 +11,10 @@ require_once("../includes/config.php");
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
         <!--<meta http-equiv="Cache-Control" content="no-cache">-->
         <link rel="shortcut icon" href="favicon.ico">
+        <!-- fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
         <!-- CSS -->
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
         <link rel="stylesheet" href="personal.css">
         <!-- Scripts -->
